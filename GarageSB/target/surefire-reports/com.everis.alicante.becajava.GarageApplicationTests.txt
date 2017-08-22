@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.everis.alicante.becajava.GarageApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.565 sec - in com.everis.alicante.becajava.GarageApplicationTests
